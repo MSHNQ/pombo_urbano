@@ -1,0 +1,5 @@
+	ativar o angular
+ng serve
+
+ativar o server json
+json-server --watch banco-de-dados.json
